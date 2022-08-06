@@ -1,0 +1,45 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_PVR_Database_VM_name": {
+            "value": null
+        },
+        "virtualMachines_PVR_Demo_WebVM1_name": {
+            "value": null
+        },
+        "networkInterfaces_pvr_database_vm190_name": {
+            "value": null
+        },
+        "networkInterfaces_pvr_demo_webvm1499_name": {
+            "value": null
+        },
+        "publicIPAddresses_PVR_Database_VM_IP_name": {
+            "value": null
+        },
+        "publicIPAddresses_PVR_Demo_WebVM1_IP_name": {
+            "value": null
+        },
+        "virtualNetworks_PVR_Demo_Eastus_VNet_name": {
+            "value": null
+        },
+        "networkSecurityGroups_PVR_BackEnd_NSG_name": {
+            "value": null
+        },
+        "networkSecurityGroups_PVR_FrontEnd_NSG_name": {
+            "value": null
+        },
+        "schedules_shutdown_computevm_pvr_database_vm_name": {
+            "value": null
+        },
+        "schedules_shutdown_computevm_pvr_demo_webvm1_name": {
+            "value": null
+        },
+        "disks_PVR_Database_VM_disk1_702cba3cb69a4a889ba08fd2c1c84deb_externalid": {
+            "value": null
+        },
+        "disks_PVR_Demo_WebVM1_disk1_09879abd5c0f4ac58edb685b2375728e_externalid": {
+            "value": null
+        }
+    }
+}
